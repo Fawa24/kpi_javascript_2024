@@ -46,18 +46,6 @@ const users = [
         skills: ["adipisicing", "irure", "velit"],
         gender: "female",
         age: 21,
-    },
-    {
-        id: "334f8cb3-eb04-45e6-abf4-4935dd439b70",
-        name: "Carey Barr",
-        email: "careybarr@nurali.com",
-        eyeColor: "blue",
-        friends: ["Jordan Sampson", "Eddie Strong"],
-        isActive: true,
-        balance: 3951,
-        skills: ["ex", "culpa", "nostrud"],
-        gender: "male",
-        age: 27,
     }
 ];
 
